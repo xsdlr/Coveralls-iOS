@@ -2,8 +2,8 @@
 
 minimum setup for Coveralls.
 
-* [![Build Status](https://travis-ci.org/azu/Coveralls-iOS.png?branch=master)](https://travis-ci.org/azu/Coveralls-iOS)
-* [![Coverage Status](https://coveralls.io/repos/azu/Coveralls-iOS/badge.png?branch=master)](https://coveralls.io/r/azu/Coveralls-iOS?branch=master)
+* [![Build Status](https://travis-ci.org/xsdlr/Coveralls-iOS.png?branch=master)](https://travis-ci.org/xsdlr/Coveralls-iOS)
+* [![Coverage Status](https://img.shields.io/coveralls/xsdlr/Coveralls-iOS/my.svg?style=flat-square)](https://coveralls.io/r/xsdlr/Coveralls-iOS)
 
 ## How to
 
